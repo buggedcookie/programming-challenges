@@ -62,3 +62,4 @@ Game development and logic programming challenges, including interactive and sim
 | 38  | Gravity Maze            | Tilt maze or ball movement logic with gravity   |       |
 | 39  | Parkour Timer Game      | Platformer that tracks speedruns                |       |
 | 40  | Incremental Clicker     | Cookie Clicker-style idle game logic            |       |
+| 41  | Sand Simulator     | 2D Sand, Liquid, Solid Simulator                     |       |
