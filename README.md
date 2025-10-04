@@ -1,6 +1,6 @@
-# README
+# Programming Challenges Repository
 
-This is the main overview of the repository.
+A curated collection of programming challenges designed to help you **practice, experiment, and level up your coding skills**. This repository includes challenges of varying difficulty, from small algorithmic exercises to full applications and games.
 
 ---
 
@@ -8,23 +8,42 @@ This is the main overview of the repository.
 
 | Category                                       | Description                                                        |
 | ---------------------------------------------- | ------------------------------------------------------------------ |
-| [Applications](./Challenges/Applications.md)   | Full application programming challenges                            |
-| [Games](./Challenges/Games.md)                 | Game development programming challenges                            |
-| [Programs](./Challenges/Programs.md)           | Small programs and algorithmic challenges                          |
-| [Miscellaneous](./Challenges/Miscellaneous.md) | Challenges that don't fit other categories                         |
-| [Constraints](./Challenges/Constraints.md)     | Rules or limitations ideas for challenges                          |
-| [Resources](./Challenges/Resources.md)         | External programming challenge collections                         |
-| [Contribution](./Contribution.md)              | How to contribute to the repository, guidelines, and collaboration |
+| [Applications](./challenges/applications.md)   | Full application programming challenges                            |
+| [Games](./challenges/games.md)                 | Game development programming challenges                            |
+| [Programs](./challenges/programs.md)           | Small programs and algorithmic challenges                          |
+| [Miscellaneous](./challenges/miscellaneous.md) | Challenges that don't fit other categories                         |
+| [Constraints](./challenges/constraints.md)     | Rules or limitations ideas for challenges                          |
+| [Resources](./challenges/resources.md)         | External programming challenge collections                         |
+| [Contribution](./challenges/contribution.md)  | How to contribute to the repository, guidelines, and collaboration |
 | [**README**](./README.md)                      | Main repository overview and structure                             |
 
 ---
 
-# Programming Challenges
+## About This Repository
 
-Welcome to the **Programming Challenges** repository, a collection of programming problems. Use them to improve your skills, learn new concepts, or just challenge yourself for fun!
+- This repository provides **challenge descriptions, explanations, and guides**, it is **not a solutions repository**.
+- The goal is to **inspire, educate, and challenge you**, encouraging experimentation and hands-on learning.
+- Challenges vary in difficulty, from simple exercises to complex projects.
 
-## About
+---
 
-This isn't meant to be a clean collection of perfect solutions, just my own takes, experiments, and learning process. Some solutions are clean, others are an absolute mess. There's all sorts of challenges here, easy or hard.
+## How to Use
 
-If anything here inspires you or makes you want to try a challenge yourself, that's awesome, good luck!
+1. Browse the challenges in the appropriate category.
+2. Read the description, rules, and hints (if provided).
+3. Try implementing your own solution in any programming language or tool.
+4. Enjoy the process of learning and experimenting—there’s no “right” way to do it.
+
+---
+
+## Goals
+
+- **Practice:** Improve algorithmic thinking and problem-solving skills.
+- **Experiment:** Try new languages, tools, or frameworks.
+- **Learn:** Understand concepts through hands-on coding rather than just reading.
+- **Share:** Contribute ideas, improvements, or explanations via pull requests (without full solutions).
+
+---
+
+Happy coding and learning! 🎉
+
