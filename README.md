@@ -14,7 +14,7 @@ A curated collection of programming challenges designed to help you **practice, 
 | [Miscellaneous](./challenges/miscellaneous.md) | Challenges that don't fit other categories                         |
 | [Constraints](./challenges/constraints.md)     | Rules or limitations ideas for challenges                          |
 | [Resources](./challenges/resources.md)         | External programming challenge collections                         |
-| [Contribution](./challenges/contribution.md)  | How to contribute to the repository, guidelines, and collaboration |
+| [Contribution](./contribution.md)  | How to contribute to the repository, guidelines, and collaboration |
 | [**README**](./README.md)                      | Main repository overview and structure                             |
 
 ---
