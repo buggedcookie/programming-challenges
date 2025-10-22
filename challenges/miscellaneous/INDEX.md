@@ -27,6 +27,6 @@
 | 126 | [02 custom data format](/challenges/miscellaneous/details/02-custom-data-format.md) | ⬜ |
 | 127 | [03 custom scripting language](/challenges/miscellaneous/details/03-custom-scripting-language.md) | ⬜ |
 | 128 | [04 brainfuck interpreter](/challenges/miscellaneous/details/04-brainfuck-interpreter.md) | ⬜ |
-| 129 | [05 redo in your own language](/challenges/miscellaneous/details/05-redo-in-your-own-language.md) | 🟨 |
+| 129 | [05 redo in your own language](/challenges/miscellaneous/details/05-redo-in-your-own-language.md) | ⬜ |
 | 130 | [06 custom attribute](/challenges/miscellaneous/details/06-custom-attribute.md) | ⬜ |
 
