@@ -19,6 +19,12 @@
 
 | # | Challenge | Solution |
 | --- | --- | --- |
-| 01 | [01 to do app](/challenges/applications/details/01-to-do-app.md) | [01-test](/solutions/csharp/01-test) |
+| 01 | [01 to do app](/challenges/applications/details/01-to-do-app.md) | [01-todo-app](/solutions/csharp/01-todo-app) |
+
+## python
+
+| # | Challenge | Solution |
+| --- | --- | --- |
+| 01 | [01 to do app](/challenges/applications/details/01-to-do-app.md) | [01-todo-python](/solutions/python/01-todo-python) |
 
 
