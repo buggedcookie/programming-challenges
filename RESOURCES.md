@@ -4,13 +4,14 @@
 
 | Category                            | Description                                |
 | ----------------------------------- | ------------------------------------------ |
-| [Applications](./applications.md)   | Full application programming challenges    |
-| [Games](./games.md)                 | Game development programming challenges    |
-| [Programs](./programs.md)           | Small programs and algorithmic challenges  |
-| [Miscellaneous](./miscellaneous.md) | Challenges that don't fit other categories |
-| [Constraints](./constraints.md)     | Rules or limitations ideas for challenges  |
+| [README](./README.md) | Main repository overview and structure |
+| [Applications](./challenges/applications/INDEX.md) | Full applications and tools |
+| [Games](./challenges/games/INDEX.md) | Game development challenges |
+| [Programs](./challenges/programs/INDEX.md) | Small scripts and algorithmic challenges |
+| [Miscellaneous](./challenges/miscellaneous/INDEX.md) | Other creative or experimental projects |
+| [Solutions](./solutions/INDEX.md) | Completed solutions by language |
 | [**Resources**](./resources.md)     | External programming challenge collections |
-| [README](../README.md)              | Main repository overview and structure     |
+
 
 ---
 
