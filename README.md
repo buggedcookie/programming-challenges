@@ -8,7 +8,7 @@ A collection of programming challenges to help you practice, experiment, and lev
 
 | Category | Description |
 | -------- | ----------- |
-| [README](./README.md) | Main repository overview and structure |
+| [README](README.md) | Main repository overview and structure |
 | [Applications](./challenges/applications/INDEX.md) | Full applications and tools |
 | [Games](./challenges/games/INDEX.md) | Game development challenges |
 | [Programs](./challenges/programs/INDEX.md) | Small scripts and algorithmic challenges |
