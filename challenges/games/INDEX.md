@@ -6,7 +6,7 @@
 
 | Category | Description |
 | -------- | ----------- |
-| [README](../README.md) | Main repository overview and structure |
+| [README](/README.md) | Main repository overview and structure |
 | [Applications](../applications/INDEX.md) | Full applications and tools |
 | [Games](../games/INDEX.md) | Game development challenges |
 | [Programs](../programs/INDEX.md) | Small scripts and algorithmic challenges |
